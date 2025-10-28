@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.env
+# R
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+# Plots
+.pdf
+.png
+.jpeg
+# macOS
+.DS_Store
+# Logs
+logs/
+*.log
